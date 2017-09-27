@@ -1,0 +1,29 @@
+{
+  "name": "hapi-deputy",
+  "version": "1.0.0",
+  "description": "Helper for loading hapi.js modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djelic/hapi-deputy.git"
+  },
+  "keywords": [
+    "hapi",
+    "modules",
+    "loader",
+    "helper",
+    "dependency"
+  ],
+  "author": "David Jelić <djelic@buksna.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djelic/hapi-deputy/issues"
+  },
+  "homepage": "https://github.com/djelic/hapi-deputy#readme",
+  "peerDependencies": {
+    "joi": "^11.1.1"
+  }
+}
